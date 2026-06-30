@@ -328,7 +328,7 @@ export default function Home() {
           <div className="grid items-center gap-14 lg:grid-cols-[1.05fr_0.95fr]">
             <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}>
               <p className="section-kicker">VLSI engineer in progress</p>
-              <h1 className="mt-5 max-w-4xl text-balance text-4xl font-semibold leading-tight tracking-tight text-ink sm:text-6xl lg:text-7xl">Sanath </h1>
+              <h1 className="mt-5 max-w-4xl text-balance text-4xl font-semibold leading-tight tracking-tight text-ink sm:text-6xl lg:text-7xl">Sanath Palakkal </h1>
               <p className="mt-5 text-xl font-medium text-primary sm:text-2xl">MSc Applied Physics (VLSI)</p>
               <p className="mt-6 max-w-2xl text-lg leading-8 text-muted sm:text-xl">Building reliable hardware, meaningful software, and technology that solves real-world problems.</p>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row">
