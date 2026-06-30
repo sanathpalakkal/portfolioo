@@ -1,0 +1,42 @@
+{
+    "name":  "sanath-portfolio",
+    "version":  "1.0.0",
+    "description":  "Premium personal portfolio for Sanath Palakkal.",
+    "scripts":  {
+                    "dev":  "next dev",
+                    "build":  "next build",
+                    "start":  "next start",
+                    "lint":  "next lint"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "Sanath Palakkal",
+    "license":  "ISC",
+    "devEngines":  {
+                       "packageManager":  {
+                                              "name":  "pnpm",
+                                              "version":  "^11.5.3",
+                                              "onFail":  "download"
+                                          }
+                   },
+    "type":  "module",
+    "dependencies":  {
+                         "framer-motion":  "^12.42.0",
+                         "lucide-react":  "^1.22.0",
+                         "next":  "^16.2.9",
+                         "react":  "^19.2.7",
+                         "react-dom":  "^19.2.7"
+                     },
+    "devDependencies":  {
+                            "@types/node":  "^26.0.1",
+                            "@types/react":  "^19.2.17",
+                            "@types/react-dom":  "^19.2.3",
+                            "autoprefixer":  "^10.5.2",
+                            "eslint":  "^10.6.0",
+                            "eslint-config-next":  "^16.2.9",
+                            "postcss":  "^8.5.16",
+                            "tailwindcss":  "^3.4.17",
+                            "typescript":  "^6.0.3"
+                        }
+}
