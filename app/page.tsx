@@ -235,7 +235,7 @@ export default function Home() {
     () => ({
       "@context": "https://schema.org",
       "@type": "Person",
-      name: "Sanath Palakkal",
+      name: "Sanath ",
       email: "sanath.es24@duk.ac.in",
       jobTitle: "MSc Applied Physics student specializing in VLSI",
       address: {
