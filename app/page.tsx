@@ -587,8 +587,8 @@ export default function Home() {
               <p className="text-sm font-semibold uppercase tracking-[0.14em] text-secondary">Contact</p>
               <h2 className="mt-4 text-balance text-4xl font-semibold tracking-tight sm:text-5xl">Let us talk about silicon, research, startups, or meaningful technology.</h2>
               <div className="mt-10 grid gap-4">
-                <a href="mailto:sanath.es24@duk.ac.in" className="flex items-center gap-3 text-gray-300 transition hover:text-white"><Mail size={18} /> sanath.es24@duk.ac.in</a>
-                <a href="https://www.linkedin.com/in/sanathpalakkale" className="flex items-center gap-3 text-gray-300 transition hover:text-white"><ExternalLink size={18} /> linkedin.com/in/sanathpalakkale</a>
+                <a href="mailto:palakkalsanath@gmail.com" className="flex items-center gap-3 text-gray-300 transition hover:text-white"><Mail size={18} /> palakkalsanath@gmail.cpm</a>
+                <a href="https://www.linkedin.com/in/sanath-palakkal-34a78a212/" className="flex items-center gap-3 text-gray-300 transition hover:text-white"><ExternalLink size={18} /> sanathpalakkal</a>
                 <a href="https://github.com/sanathpalakkale" className="flex items-center gap-3 text-gray-300 transition hover:text-white"><GitBranch size={18} /> github.com/sanathpalakkale</a>
                 <p className="flex items-center gap-3 text-gray-300"><MapPin size={18} /> Kozhikode, Kerala, India</p>
               </div>
