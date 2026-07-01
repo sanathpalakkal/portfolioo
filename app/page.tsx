@@ -351,7 +351,7 @@ export default function Home() {
                 <Image src="/images/sanath-portrait.png" alt="Professional editorial portrait visual for Sanath Palakkal" width={1200} height={1400} priority className="aspect-[4/5] w-full rounded-[1.55rem] object-cover" />
               </div>
               <div className="absolute -bottom-6 left-6 right-6 rounded-2xl border border-line bg-white p-5 shadow-card">
-                <p className="text-sm font-semibold text-ink">Founder of Exploring Unexplored Kerala</p>
+                <p className="text-sm font-semibold text-ink">Founder of KuTu</p>
                 <p className="mt-1 text-sm leading-6 text-muted">A travel technology idea focused on discovery, community value, and responsible local experiences.</p>
               </div>
             </motion.div>
